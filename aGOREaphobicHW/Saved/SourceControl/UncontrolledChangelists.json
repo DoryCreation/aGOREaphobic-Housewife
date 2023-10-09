@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/MainMenu.umap",
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/Character/MainCharacter.uasset",
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/MainLevel/MainLevel.umap",
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/MainLevel/_GENERATED/Doryv/CubeGridToolOutput_BF3B1E09.uasset",
+				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/Character/SpawnPoints.uasset",
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/BP_FleshPit.uasset",
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/Placeholders/carrion.uasset",
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/Placeholders/carrion_Sprite.uasset",
@@ -43,8 +49,7 @@
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/PotionShop/WB_NoPotions.uasset",
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/FleshPit/WB_NotEnoughSpace.uasset",
 				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/PaperBoy/WB_Update.uasset",
-				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/PaperBoy/WB_UpdateWithOffer.uasset",
-				"C:/Users/Doryv/Desktop/SAE/23T3/GDS314/aGOREaphobic Housewife/aGOREaphobicHW/Content/MainMenu.umap"
+				"C:/Users/micha/Documents/aGOREaphobic-Housewife/aGOREaphobicHW/Content/MainLevel/PaperBoy/WB_UpdateWithOffer.uasset"
 			]
 		}
 	]
